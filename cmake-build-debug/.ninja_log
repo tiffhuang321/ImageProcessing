@@ -1,0 +1,27 @@
+# ninja log v6
+38	910	7516060586691314	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+913	1378	7516060595436864	project2_milestone2.exe	1e1ddaf71d966b25
+10	799	7516062000845501	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+800	1036	7516062008750047	project2_milestone2.exe	1e1ddaf71d966b25
+10	694	7516063195021694	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+695	954	7516063201875931	project2_milestone2.exe	1e1ddaf71d966b25
+10	649	7516063819360832	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+649	804	7516063825758557	project2_milestone2.exe	1e1ddaf71d966b25
+9	671	7516064223111696	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+671	815	7516064229733456	project2_milestone2.exe	1e1ddaf71d966b25
+73	1009	7516961549363371	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+1011	1493	7516961558743525	project2_milestone2.exe	1e1ddaf71d966b25
+81	1254	7517694266262260	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+1255	1817	7517694277992399	project2_milestone2.exe	1e1ddaf71d966b25
+8	1086	7517694685475465	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+1090	1359	7517694696297625	project2_milestone2.exe	1e1ddaf71d966b25
+8	679	7517695137899574	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+680	843	7517695144618216	project2_milestone2.exe	1e1ddaf71d966b25
+7	725	7517695923189338	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+726	868	7517695930372903	project2_milestone2.exe	1e1ddaf71d966b25
+8	691	7517701437128382	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+692	892	7517701443963515	project2_milestone2.exe	1e1ddaf71d966b25
+6	665	7517701912132874	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+666	815	7517701918726839	project2_milestone2.exe	1e1ddaf71d966b25
+84	1527	7519516177631021	CMakeFiles/project2_milestone2.dir/main.cpp.obj	7c2ce511e50b2302
+1528	2067	7519516192069645	project2_milestone2.exe	1e1ddaf71d966b25
